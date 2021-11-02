@@ -11,7 +11,8 @@ import SwiftUI
 struct VKStartPageApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //StartPage()
+            ContainerView()
         }
     }
 }
